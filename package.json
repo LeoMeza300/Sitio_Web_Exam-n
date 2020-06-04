@@ -1,0 +1,16 @@
+{
+  "name": "examen-toledo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonardo Rene Meza Jacquez.",
+  "license": "ISC",
+  "dependencies": {
+    "expres": "0.0.5",
+    "mongoose": "^5.9.17",
+    "save": "^2.4.0"
+  }
+}
